@@ -24,6 +24,3 @@
   <img align="center" alt="icon-Gms" height="30" src="https://cdn.discordapp.com/emojis/761076486454378506.webp"> <strong>Game Maker Studio</strong>
   
 </div>
-
-## Contato
-<a href="https://www.instagram.com/kauar_dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
