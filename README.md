@@ -9,4 +9,4 @@
 - 🌟 Já fui ``auxiliar/monitor de professor em ensino médio``, já ``dei aula particular`` e já ``dei aula em sala de aula`` sobre ``lógica de programação básica``, além disso sou ``autor de um e-book de lógica de programação em python``.
 
 
-![Kaua.R's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaua-rossi&show_icons=true&theme=radical)
+![Kaua.R's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaua-rossi&show_icons=true&theme=dracula)
