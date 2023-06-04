@@ -15,12 +15,13 @@
 ## Skills
 <div style="display: inline_block"><br>
   
+  <img align="center" alt="icon-Gms" height="30" src="https://cdn.discordapp.com/emojis/761076486454378506.webp"> <strong>Game Maker Studio</strong> </br>
+  
   <img align="center" alt="icon-HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <strong>HTML5</strong> </br>
   
   <img align="center" alt="icon-CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <strong>CSS3</strong> </br>
   
   <img align="center" alt="icon-Js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <strong>JavaScript</strong> </br>
   
-  <img align="center" alt="icon-Gms" height="30" src="https://cdn.discordapp.com/emojis/761076486454378506.webp"> <strong>Game Maker Studio</strong>
-  
+  <img align="center" alt="icon-Python" height="30" src="https://www.svgrepo.com/show/374016/python.svg"> <strong>Python</strong>
 </div>
