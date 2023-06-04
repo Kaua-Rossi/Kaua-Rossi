@@ -8,20 +8,22 @@
 - 👯 Procuro trabalhar em ``equipes de desenvolvimento de jogos`` mas também faço ``free-lance em front-end``.
 - 🌟 Já fui ``auxiliar/monitor de professor em ensino médio``, já ``dei aula particular`` e já ``dei aula em sala de aula`` sobre ``lógica de programação básica``, além disso sou ``autor de um e-book de lógica de programação em python``.
 
-##
-
+## Stats
 ![Kaua.R's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaua-rossi&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-rossi&size_weight=0.5&count_weight=0.5&layout=donut&theme=dracula)](https://github.com/kaua-rossi/github-readme-stats)
 
-##
-
+## Skills
 <div style="display: inline_block"><br>
-  <img align="center" alt="icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="icon-Gms" height="30" width="40" src="https://www.svgrepo.com/show/373618/gamemaker2.svg">
+  
+  <img align="center" alt="icon-HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <strong>HTML5</strong> </br>
+  
+  <img align="center" alt="icon-CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <strong>CSS3</strong> </br>
+  
+  <img align="center" alt="icon-Js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <strong>JavaScript</strong> </br>
+  
+  <img align="center" alt="icon-Gms" height="30" src="https://cdn.discordapp.com/emojis/761076486454378506.webp"> <strong>Game Maker Studio</strong>
+  
 </div>
 
-##
-
+## Contato
 <a href="https://www.instagram.com/kauar_dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
