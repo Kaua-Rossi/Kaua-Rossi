@@ -11,7 +11,7 @@
 ## Stats
 
 <div align= "center">
-  <img width="308" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaua-Rossi&theme=dracula&count_private=true&layout=pizza" />
+  <img width="308" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaua-Rossi&theme=dracula&count_private=true&layout=compact" />
   <img height="190" src="https://github-readme-stats.vercel.app/api?username=Kaua-Rossi&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
