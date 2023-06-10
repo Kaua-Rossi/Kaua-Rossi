@@ -10,7 +10,7 @@
 
 ## Stats
 ![Kaua.R's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaua-rossi&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-rossi&size_weight=0.5&count_weight=0.5&layout=donut&theme=dracula)](https://github.com/kaua-rossi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-rossi&size_weight=0.5&count_weight=0.5&layout=donut&theme=dracula&count_private=true)](https://github.com/kaua-rossi/github-readme-stats)
 
 ## Skills
 <div style="display: inline_block"><br>
