@@ -2,10 +2,9 @@
 
 ## Informações Básicas
 - 💬 Tenho ``16 anos`` e tive contato com programação desde cedo, porém comecei a focar desde os ``13 anos``.
-- 🔭 Atualmente sou ``GameDev`` mas também tenho tenho habilidades em ``front-end``.
-- ⚡ Minhas principais habilidades são envolvendo ``desenvolvimento de jogos``, atualmente desenvolvo na ``Unity``.
+- 🔭 Atualmente sou ``GameDev``, mas almejo e gosto de muitas áreas da programação, atualmente estou tentando aprender ``java``.
+- ⚡ Minhas principais habilidades são envolvendo ``desenvolvimento de jogos``, atualmente desenvolvo no ``GameMaker Studio``.
 - 👯 Procuro trabalhar em ``equipes de desenvolvimento de jogos``.
-- 🌟 Já fui ``auxiliar/monitor de professor em ensino médio``, já ``dei aula particular`` e já ``dei aula em sala de aula`` sobre ``lógica de programação básica``, além disso sou ``autor de um e-book de lógica de programação em python``.
 
 ## Stats
 
@@ -21,10 +20,12 @@
 
 ## Skills
 <div style="display: inline_block"><br>
-
-  <img align="center" alt="icon-Unity" height="30" src="https://www.svgrepo.com/show/473818/unity.svg"> <strong>Unity</strong> </br>
   
   <img align="center" alt="icon-Gms" height="30" src="https://cdn.discordapp.com/emojis/761076486454378506.webp"> <strong>Game Maker Studio</strong> </br>
+
+  <img align="center" alt="icon-Unity" height="30" src="https://www.svgrepo.com/show/473818/unity.svg"> <strong>Unity</strong> </br>
+
+  <img align="center" alt="icon-Java" height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"> <strong>Java</strong> </br>
   
   <img align="center" alt="icon-HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <strong>HTML5</strong> </br>
   
