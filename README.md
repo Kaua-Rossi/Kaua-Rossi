@@ -1,7 +1,7 @@
 # Olá, Sou Kauã 🤠
 
 ## Informações Básicas
-- 💬 Tenho ``16 anos`` e tive contato com programação desde cedo, porém comecei a focar desde os ``13 anos``.
+- 💬 Tenho ``17 anos`` e tive contato com programação desde cedo, porém comecei a focar desde os ``13 anos``.
 - 🔭 Atualmente sou ``GameDev``, mas almejo e gosto de muitas áreas da programação, atualmente estou tentando aprender ``java``.
 - ⚡ Minhas principais habilidades são envolvendo ``desenvolvimento de jogos``, atualmente desenvolvo no ``GameMaker Studio``.
 - 👯 Procuro trabalhar em ``equipes de desenvolvimento de jogos``.
