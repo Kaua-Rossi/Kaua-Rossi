@@ -2,7 +2,7 @@
 
 ## Informações Básicas
 - 💬 Tenho ``17 anos`` e tive contato com programação desde cedo, porém comecei a focar desde os ``13 anos``.
-- 🔭 Atualmente sou ``GameDev``, mas almejo e gosto de muitas áreas da programação, atualmente estou tentando aprender ``java``.
+- 🔭 Atualmente sou ``GameDev``, mas almejo e gosto de muitas áreas da programação.
 - ⚡ Minhas principais habilidades são envolvendo ``desenvolvimento de jogos``, atualmente desenvolvo no ``GameMaker Studio``.
 - 👯 Procuro trabalhar em ``estúdios de desenvolvimento de jogos``.
 
