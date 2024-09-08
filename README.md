@@ -4,7 +4,6 @@
 - 💬 Tenho ``17 anos`` e tive contato com programação desde cedo e estou sendo freelancer desde 2022!
 - 🔭 Sou um ``Programador de jogos``, entretanto, também trabalho com o Game Design ( ás vezes arte e música ) dos meus jogos!
 - ⚡ Minhas principais habilidades são envolvendo ``desenvolvimento de jogos``, atualmente desenvolvo no ``GameMaker Studio``.
-- 👯 Procuro trabalhar em ``estúdios de desenvolvimento de jogos``.
 
 ## Stats
 
