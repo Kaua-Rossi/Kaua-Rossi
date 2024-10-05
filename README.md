@@ -1,9 +1,9 @@
-# Olá, Sou Kauã 🤠
+# Olá! Pode me chamar de **Kauã Rossi** ou pelo meu "pseudônimo da internet": **Red** 🤠
 
 ## Informações Básicas
-- 💬 Tenho ``17 anos`` e tive contato com programação desde cedo e estou sendo freelancer desde 2022!
-- 🔭 Sou um ``Programador de jogos``, entretanto, também trabalho com o Game Design ( ás vezes arte e música ) dos meus jogos!
-- ⚡ Minhas principais habilidades são envolvendo ``desenvolvimento de jogos``, atualmente desenvolvo no ``GameMaker Studio``.
+- 💬 Tenho ``17 anos`` e tive contato com programação desde cedo e atualmente estou sendo freelancer na Fiverr fazendo prototipagem de jogos desde 2022!
+- 🔭 Sou focado na área de ``Programação de jogos``, entretanto, também trabalho com o Game Design e acabo fazendo arte e a música dos meus jogos!
+- ⚡ Minhas principais habilidades são envolvendo ``desenvolvimento de jogos``, atualmente desenvolvo no ``GameMaker Studio``, entretanto tive contato com diversas linguagens de programação as utilizando em outras áreas e também no desenvolvimento de jogos como: ``C#``,  ``Python``, ``Java`` e ``Javascript``.
 
 ## Stats
 
