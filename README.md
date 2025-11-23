@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">⌛ I'm 18. I've been programming since 2020.<br><br>📚 System analysis and Development student at UFC (Federal University of Ceará).<br><br>💌 I love software development so I consider myself versatile—I don’t like being dependent on a single technology to solve problems.<br><br>⚡ I'm currently interested in <b>Vue.js</b> and <b>Dot.net</b>, but i also have skills in <b>Flask</b>, <b>SQL</b>, <b>JavaScript</b>, <b>C</b>, <b>Java</b>...<br><br>🎮 As a side-project, I develop indie games as a passion hobby using Gamemaker. <3 (I play around with other game engines too!)<br><br>🎹 In my free time, I enjoy playing the piano and play video games. :D</p>
+<p align="left">⌛ I'm 18. my first experiences with programming were in 2020. In 2022 I got into game development. In 2025, I entered College. :]<br><br>📚 System analysis and Development student at UFC (Federal University of Ceará). XD<br><br>💌 I program because I like it, I don't like to depend on a single technology to solve problems. ^^<br><br>⚡ I'm currently interested in <b>React</b>, <b>C#</b>/<b>ASP.NET</b> and another technologies from the <b>.NET</b> ecosystem. B)<br><br>🎮 As a side-project, I develop indie games. <3<br><br>🎹 In my free time, I enjoy playing the piano and playing video games. :D</p>
 
 ###
 
@@ -25,53 +25,57 @@
 
 ###
 
-<h3 align="left">Web Development</h3>
+<p align="left">Main Skills</p>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="50" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="50" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="vuejs logo"  />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="60" alt="microsoftsqlserver logo"  />
+</div>
+
+###
+
+<p align="left">Other Skills</p>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo"  />
-</div>
-
-###
-
-<h3 align="left">General</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
 </div>
 
 ###
 
-<h3 align="left">Game Development</h3>
+<p align="left">Game Development</p>
 
 ###
 
@@ -81,30 +85,8 @@
   <img src="https://skillicons.dev/icons?i=godot" height="60" alt="godot logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=unity" height="60" alt="unity logo"  />
-</div>
-
-###
-
-<h3 align="left">Other Skills</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
-</div>
-
-###
-
-<h2 align="left">Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaua-Rossi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaua-Rossi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Kaua-Rossi&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://skillicons.dev/icons?i=blender" height="60" alt="blender logo"  />
 </div>
 
 ###
