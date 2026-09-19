@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">⌛ I'm 18. my first experiences with programming were in 2020. In 2022 I got into game development. In 2025, I entered College. :]<br><br>📚 System analysis and Development student at UFC (Federal University of Ceará). XD<br><br>💌 I program because I like it, I don't like to depend on a single technology to solve problems. ^^<br><br>⚡ I'm currently interested in <b>React</b>, <b>C#</b>/<b>ASP.NET</b> and another technologies from the <b>.NET</b> ecosystem. B)<br><br>🎮 As a side-project, I develop indie games. <3<br><br>🎹 In my free time, I enjoy playing the piano and playing video games. :D</p>
+<p align="left">⌛ I'm 19. my first experiences with programming were in 2020. In 2022 I got into game development. In 2025, I entered College. :]<br><br>📚 System analysis and Development student at UFC (Federal University of Ceará). XD<br><br>💌 I program because I like it, ^^<br><br>⚡ I'm currently interested in <b>Unity</b>, <b>C#</b>/<b>ASP.NET</b> and other technologies from the <b>.NET</b> ecosystem. (I don't like to depend on a single technology/ecossystem to solve problems though.) <br><br>🎮 As a side-project, I develop indie games. <3<br><br>🎹 In my free time, I enjoy playing the piano and playing video games. :D</p>
 
 ###
 
@@ -32,13 +32,13 @@
 <div align="left">
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="50" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="50" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unity" height="60" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="60" alt="microsoftsqlserver logo"  />
 </div>
@@ -50,11 +50,13 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="azure logo"  />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="50" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
@@ -75,7 +77,7 @@
 
 ###
 
-<p align="left">Game Development</p>
+<p align="left">Other Game Development Tools</p>
 
 ###
 
@@ -83,8 +85,6 @@
   <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="60" alt="gamemakerstudio logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=godot" height="60" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="60" alt="unity logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=blender" height="60" alt="blender logo"  />
 </div>
