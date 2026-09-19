@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">⌛ I'm 19. my first experiences with programming were in 2020. In 2022 I got into game development. In 2025, I entered College. :]<br><br>📚 System analysis and Development student at UFC (Federal University of Ceará). XD<br><br>💌 I program because I like it, ^^<br><br>⚡ I'm currently interested in <b>Unity</b>, <b>C#</b>/<b>ASP.NET</b> and other technologies from the <b>.NET</b> ecosystem. (I don't like to depend on a single technology/ecossystem to solve problems though.) <br><br>🎮 As a side-project, I develop indie games. <3<br><br>🎹 In my free time, I enjoy playing the piano and playing video games. :D</p>
+<p align="left">⌛ I'm 19. my first experiences with programming were in 2020. In 2022 I got into game development. In 2025, I entered College. :]<br><br>📚 System analysis and Development student at UFC (Federal University of Ceará). XD<br><br>💌 I program because I like it ^^<br><br>⚡ I'm currently interested in <b>Unity</b>, <b>C#</b>/<b>ASP.NET</b> and other technologies from the <b>.NET</b> ecosystem. (I don't like to depend on a single technology/ecossystem to solve problems though.) <br><br>🎮 As a side-project, I develop indie games. <3<br><br>🎹 In my free time, I enjoy playing the piano and playing video games. :D</p>
 
 ###
 
